@@ -1,1 +1,0 @@
-﻿{ "name": "book-management-system", "private": true, "scripts": { "dev": "npm run dev:frontend", "dev:frontend": "cd frontend && npm run dev", "dev:backend": "cd backend && npm run dev", "start:frontend": "cd frontend && npm run preview", "start:backend": "cd backend && npm run dev" } }

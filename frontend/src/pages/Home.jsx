@@ -49,11 +49,11 @@ const Home = () => {
               <div className="preview-stack">
                 <div className="preview-item">
                   <span className="preview-label">Books</span>
-                  <strong>128</strong>
+                  <strong>20+</strong>
                 </div>
                 <div className="preview-item">
                   <span className="preview-label">Authors</span>
-                  <strong>42</strong>
+                  <strong>15+</strong>
                 </div>
               </div>
 
